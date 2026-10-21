@@ -1,0 +1,8 @@
+# Build output and Visual Studio files
+bin/
+obj/
+.vs/
+
+# Valheim's own files, copied into libs for building. Never publish these.
+libs/assembly_*.dll
+libs/UnityEngine*.dll
