@@ -76,6 +76,12 @@ Bug reports and ideas are just as welcome. Open an issue on [GitHub](https://git
 
 <br clear="left">
 
+<a href="https://thunderstore.io/c/valheim/p/Enigma_Prime/Enigmas_Enhanced_Forging/"><img src="https://raw.githubusercontent.com/relinkem/Enigmas-Enhanced-Forging/main/Release/icon.png" alt="Enigma's Enhanced Forging icon" width="96" align="left" hspace="16"></a>
+
+**[Enigma's Enhanced Forging](https://thunderstore.io/c/valheim/p/Enigma_Prime/Enigmas_Enhanced_Forging/)**<br>Smelters, kilns and the Eitr refinery become walk-away machines with inventory screens, a Light button and winding animations.
+
+<br clear="left">
+
 ## How this mod was made
 
 The ideas, the design, and every decision about how the Tasty Mead should work are mine: it only raises your maximums and never heals you, it leaves your food timers alone, and it fades out like food does instead of cutting off. However, I am not a programmer. The code was written by Claude, an AI assistant made by Anthropic, working from my direction through [Claude Code](https://claude.com/claude-code).
