@@ -60,7 +60,7 @@ If you like the mod and want to say thanks, you can:<br>[buy me a coffee on Ko-f
 
 <br clear="left">
 
-Bug reports and ideas are just as welcome. Open an issue on [GitHub](https://github.com/relinkem/Enigmas-Useful-Tasty-Mead/issues) and include your BepInEx log (`LogOutput.log`) and, if it is a settings problem, your config file.
+Bug reports and ideas are just as welcome. Open an issue on [GitHub](https://github.com/relinkem/Enigmas-Useful-Tasty-Mead/issues) and include your BepInEx log (`LogOutput.log`) and, if it is a settings problem, your config file. Ideas and suggestions are also welcome in the comments on my [Ko-fi page](https://ko-fi.com/enigmaprime).
 
 ## More mods by Enigma Prime
 
@@ -79,6 +79,12 @@ Bug reports and ideas are just as welcome. Open an issue on [GitHub](https://git
 <a href="https://thunderstore.io/c/valheim/p/Enigma_Prime/Enigmas_Enhanced_Forging/"><img src="https://raw.githubusercontent.com/relinkem/Enigmas-Enhanced-Forging/main/Release/icon.png" alt="Enigma's Enhanced Forging icon" width="96" align="left" hspace="16"></a>
 
 **[Enigma's Enhanced Forging](https://thunderstore.io/c/valheim/p/Enigma_Prime/Enigmas_Enhanced_Forging/)**<br>Smelters, kilns and the Eitr refinery become walk-away machines with inventory screens, a Light button and winding animations.
+
+<br clear="left">
+
+<a href="https://thunderstore.io/c/valheim/p/Enigma_Prime/Enigmas_Tidy_Cart/"><img src="https://raw.githubusercontent.com/relinkem/Enigmas-Tidy-Cart/main/Release/icon.png" alt="Enigma's Tidy Cart icon" width="96" align="left" hspace="16"></a>
+
+**[Enigma's Tidy Cart](https://thunderstore.io/c/valheim/p/Enigma_Prime/Enigmas_Tidy_Cart/)**<br>Back your empty cart up to a wall and stow it upright out of the way, with your character playing it out.
 
 <br clear="left">
 
