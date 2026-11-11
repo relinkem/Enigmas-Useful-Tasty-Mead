@@ -88,6 +88,12 @@ Bug reports and ideas are just as welcome. Open an issue on [GitHub](https://git
 
 <br clear="left">
 
+<a href="https://thunderstore.io/c/valheim/p/Enigma_Prime/Enigmas_Snug_Fit/"><img src="https://raw.githubusercontent.com/relinkem/Enigmas-Snug-Fit/main/Release/icon.png" alt="Enigma's Snug Fit icon" width="96" align="left" hspace="16"></a>
+
+**[Enigma's Snug Fit](https://thunderstore.io/c/valheim/p/Enigma_Prime/Enigmas_Snug_Fit/)**<br>Spin, tilt and nudge building pieces in small steps while you place them, and snap a piece's middle onto another.
+
+<br clear="left">
+
 ## How this mod was made
 
 The ideas, the design, and every decision about how the Tasty Mead should work are mine: it only raises your maximums and never heals you, it leaves your food timers alone, and it fades out like food does instead of cutting off. However, I am not a programmer. The code was written by Claude, an AI assistant made by Anthropic, working from my direction through [Claude Code](https://claude.com/claude-code).
